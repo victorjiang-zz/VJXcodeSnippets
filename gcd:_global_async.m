@@ -1,6 +1,7 @@
-// GCD: Global Async
+// gcd:_global_async
 // Global async dispath
 //
+// GCD: Global Async
 // IDECodeSnippetCompletionPrefix: globalAsync snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 367897CD-4473-431C-AB72-2E0315829B97

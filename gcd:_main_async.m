@@ -1,6 +1,7 @@
-// GCD: Main Async
+// gcd:_main_async
 // Main async dispatch
 //
+// GCD: Main Async
 // IDECodeSnippetCompletionPrefix: mainAsync snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: EBCC0CD3-7CC0-47D2-B47F-8692415A6AC6
