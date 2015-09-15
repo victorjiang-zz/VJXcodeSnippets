@@ -2,6 +2,7 @@
 // Global and main async dispatch
 //
 // GCD: Global&Main Aysnc
+// gcd: _global&main_aysnc
 // IDECodeSnippetCompletionPrefix: global&mainAsync snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 4DEF0C80-7543-4A35-862C-6A33480252FF
